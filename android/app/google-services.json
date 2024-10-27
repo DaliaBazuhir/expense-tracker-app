@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "217712876706",
+    "project_id": "tracker-9c4cf",
+    "storage_bucket": "tracker-9c4cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217712876706:android:8d23e0c087a7f43a264bfb",
+        "android_client_info": {
+          "package_name": "com.dalia.expenseApp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBukI_MVuNMKOYNqRhkAcDr8VmxzGMYyig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
